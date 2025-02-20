@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'EdgeOne Pages AI: Utilize DeepSeek R1 for Free on the Edge.',
+  title: 'EdgeOne Pages AI: my personal DeepSeek R1.',
   description:
     'EdgeOne Pages AI offers free access to DeepSeek R1 for enhanced edge computing capabilities.',
 };
